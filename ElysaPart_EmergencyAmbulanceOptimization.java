@@ -170,6 +170,7 @@ public class EmergencyAmbulanceOptimization
         }
 
         return -1;
+    }
 
     // Demonstration for Elysa's sections
     public static void main(String[] args)
